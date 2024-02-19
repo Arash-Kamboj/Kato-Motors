@@ -1,7 +1,9 @@
 # Kato Motors
+IMDb's Top 50 Movies Webscraping Project
 
 In this project, Kato Motors, a leading automobile company, aims to establish a manufacturing facility in the United States, positioning itself as a strong contender against well-established American and European car manufacturers. The primary focus is to conduct a thorough analysis of the critical factors that impact car pricing within the American market.
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------                                                            ![image](https://github.com/Arash-Kamboj/Kato-Motors/assets/156613048/d692d120-d436-45ca-bec1-9a1de650378b)
+
 **In this project, I used all the learned concepts like:**
 
 - Numpy Array operations, including arithmetic operations and broadcasting.
@@ -10,6 +12,8 @@ In this project, Kato Motors, a leading automobile company, aims to establish a 
 - Data cleaning and preprocessing.
 - Filtering data with conditional selection.
 - Data manipulation using Pandas.
+- Handling outliers.
+- Log Transformation to Handle Outliers.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Context**
 
