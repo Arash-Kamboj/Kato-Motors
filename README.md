@@ -4,12 +4,12 @@ In this project, XYZ Motors, a leading automobile company, aims to establish a m
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **In this project, I used all the learned concepts like:**
 
-Numpy Array operations, including arithmetic operations and broadcasting.
-Pandas - Storing Data in DataFrames:
-Importing Data from Files like csv, excel.
-Data cleaning and preprocessing.
-Filtering data with conditional selection.
-Data manipulation using Pandas.
+- Numpy Array operations, including arithmetic operations and broadcasting.
+- Pandas - Storing Data in DataFrames:
+- Importing Data from Files like csv, excel.
+- Data cleaning and preprocessing.
+- Filtering data with conditional selection.
+- Data manipulation using Pandas.
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 **Context**
 
