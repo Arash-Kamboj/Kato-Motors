@@ -1,7 +1,7 @@
 # Kato Motors
 ![image](https://github.com/Arash-Kamboj/Kato-Motors/assets/156613048/830c22bf-8368-4ddf-8918-521866b381ce)
 
-
+*
 In this project, Kato Motors, a leading automobile company, aims to establish a manufacturing facility in the United States, positioning itself as a strong contender against well-established American and European car manufacturers. The primary focus is to conduct a thorough analysis of the critical factors that impact car pricing within the American market.
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ![image](https://github.com/Arash-Kamboj/Kato-Motors/assets/156613048/d692d120-d436-45ca-bec1-9a1de650378b)
